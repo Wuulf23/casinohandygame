@@ -1,5 +1,5 @@
 # casinohandygame
-Hello, this project is all about to get a stable casino handy game working:
+Hello, this project is all about to get a stable casino handy game working with Android Studio:
 I want to develope a handy game for Android and iOS.
 It should be possible to send money to the app.
 I want to develop some fancy casino games:
