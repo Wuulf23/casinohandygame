@@ -6,6 +6,8 @@ I want to develop some fancy casino games:
 - slot machines
 - roulette
 - some kind of new idea games
+
+
 Then you can gamble with the money with the casino games.
 It should be possible to win and pay out money.
 In game buys should be possible.
